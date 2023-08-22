@@ -1,0 +1,63 @@
+.login-form-container {
+  max-width: 300px;
+  margin: 200px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.login-form-container h2 {
+  text-align: center;
+}
+
+.login-form-container .form-group {
+  margin-bottom: 10px;
+}
+
+.login-form-container label {
+  display: block;
+  margin-bottom: 5px;
+  color: #565555;
+}
+
+.login-form-container input[type='email'],
+.login-form-container input[type='password'] {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.login-form-container button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #f8901c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.login-form-container .error-message {
+  color: #edc48e;
+  margin-bottom: 10px;
+}
+.login-form-container .loginuser{
+  font-size: 12px;
+  align-self: center;
+  margin: 35px 35px 20px 35px;
+}
+
+.login-form-container .loginuser span{
+  color: #f8901c;
+  font-size: 12px;
+}
+.login-form-container .forgotpassword{
+  font-size: 12px;
+  text-align: center;
+  color: #585757;
+}
+
